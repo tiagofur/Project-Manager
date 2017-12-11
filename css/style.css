@@ -1,0 +1,9 @@
+.border-right-form {
+    border-right: 1px solid #eee;
+}
+
+.project-manager {
+    float: right;
+    color: #41a263;
+    font-family: 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+}
