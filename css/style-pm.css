@@ -1,0 +1,77 @@
+/*
+*
+*Author: Tiago David Furtado
+*Version: 0.1
+*
+*/
+
+/*===============   Layout    ===============*/
+body{
+    margin: 0px;
+    padding: 10px;
+    min-height: 500px;
+    padding-top: 70px;
+}
+
+.project-manager {
+    color: #41a263;
+    font-family: 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    margin: 0px;
+    padding: 0px;
+}
+
+.titulo-pagina {
+    margin-top: 15px;
+    font-size: 2rem;
+}
+
+.div-direita {
+    float: right;
+}
+
+.button-create-task {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div-tarefas {
+    border: 2px solid #41a263;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 10px 20px 10px;
+}
+
+.border-right-form {
+    border-right: 2px solid #41a263;
+    padding-bottom: 15px;
+}
+
+.border-inferior-form {
+    border-bottom: 2px solid #41a263;
+    margin-bottom: 15px;
+}
+
+.tabela-conteudo {
+    font-size: 1rem !important;
+}
+
+.tabela-read {
+    font-size: 1.3rem !important;
+}
+
+.formularios {
+    margin: 20px;
+}
+
+.espace-300px{
+    height: 300px;
+}
+
+
+/*===============   Tipography    ===============*/
+
+/*===============   Final Tipography    ===============*/
+
+/*===============   NEMU RESPONSIVE    ===============*/
